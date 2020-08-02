@@ -1,0 +1,2 @@
+Distance from gdansk to warszawa: 3
+Distance from bydgoszcz to warszawa: 2
